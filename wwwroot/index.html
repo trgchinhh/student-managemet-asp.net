@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Random Number</h1>
+    <button onclick="random()">Random</button>
+
+    <h2 id="ketqua"></h2>
+    <script>
+        async function random(){
+            const response = await fetch("/random");
+            const number = await response.text();
+            document.getElementById("ketqua").textContent = number;
+        }
+        setInterval(random, 1000)
+    </script>
+</body>
+</html>
