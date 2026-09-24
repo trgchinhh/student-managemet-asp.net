@@ -9,7 +9,3 @@ GET {{hello_HostAddress}}/chao/Lan
 ### POST gửi dữ liệu qua body JSON
 POST {{hello_HostAddress}}/luu
 Content-Type: application/json
-
-{
-  "ten": "Nam"
-}
