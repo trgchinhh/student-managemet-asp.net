@@ -31,4 +31,7 @@ D:\ThuGian_CSharp\Web\hello\obj\Debug\net9.0\hello.pdb
 D:\ThuGian_CSharp\Web\hello\obj\Debug\net9.0\hello.genruntimeconfig.cache
 D:\ThuGian_CSharp\Web\hello\obj\Debug\net9.0\ref\hello.dll
 D:\ThuGian_CSharp\Web\hello\bin\Debug\net9.0\hello.staticwebassets.runtime.json
-D:\ThuGian_CSharp\Web\hello\obj\Debug\net9.0\compressed\wk6pmyvmkd-mztmmmlj4n.gz
+D:\ThuGian_CSharp\Web\hello\bin\Debug\net9.0\data\danhsachsinhvien.json
+D:\ThuGian_CSharp\Web\hello\obj\Debug\net9.0\compressed\ve9ybeoruw-r5e6kn9as6.gz
+D:\ThuGian_CSharp\Web\hello\obj\Debug\net9.0\compressed\axefuwofws-8ijoiw9s8k.gz
+D:\ThuGian_CSharp\Web\hello\obj\Debug\net9.0\compressed\wk6pmyvmkd-lusos9lgi8.gz

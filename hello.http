@@ -1,6 +1,15 @@
-@hello_HostAddress = http://localhost:3000
+@hello_HostAddress = http://localhost:5188
 
-GET {{hello_HostAddress}}/weatherforecast/
-Accept: application/json
+### GET không gửi gì
+GET {{hello_HostAddress}}/chao
 
-###
+### GET gửi dữ liệu qua đường dẫn
+GET {{hello_HostAddress}}/chao/Lan
+
+### POST gửi dữ liệu qua body JSON
+POST {{hello_HostAddress}}/luu
+Content-Type: application/json
+
+{
+  "ten": "Nam"
+}
